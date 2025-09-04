@@ -1,0 +1,11 @@
+python-dotenv
+langchain
+openai
+faiss-cpu
+langchain-community
+pypdf
+tiktoken
+langchain-openai
+pandas
+openpyxl
+unstructured[xlsx]
